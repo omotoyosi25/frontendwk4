@@ -1,0 +1,37 @@
+.o{
+    width: 80px;
+    height: 80px;
+    background-color: yellow;
+    border-radius: 50%;
+    border: 4px solid black;
+    left: 90px;
+    top: 100px;
+}
+.oo{
+    width: 12px;
+    height: 17px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    bottom: 65px;
+    left: 21px;
+}
+.ooo{
+    width: 12px;
+    height: 17px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    bottom: 83px;
+    left: 58px;
+}
+.oooo{
+    width: 27px;
+    height: 23px;
+    background-color: black;
+    border-radius: 50%;
+    position: relative;
+    bottom: 75px;
+    left: 30px;
+   
+}
